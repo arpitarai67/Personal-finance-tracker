@@ -6,13 +6,7 @@ const analyticsRoutes = require('./routes/analyticsRoutes');
 
 
 const app = express();
-app.use(
-  cors({
-    origin: 'https://personal-finance-tracker-gamma-cyan.vercel.app',
-    credentials: true, 
-  })
-);
-
+app.use(cors());
 app.use(express.json());
 
 app.use('/api/auth', authRoutes);
