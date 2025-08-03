@@ -2,7 +2,7 @@
     "rewrites": [
         {
             "source": "/api/:path*",
-            "destination": "https://arp-p-b.vercel.app/api/:path*"
+            "destination": "https://pft-flame.vercel.app/api/:path*"
         },
         {
             "source": "/(.*)",
