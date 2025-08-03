@@ -25,4 +25,4 @@ services:
       - key: REDIS_URL
         value: your-redis-url
       - key: CORS_ORIGIN
-        value: https://your-frontend-url.vercel.app 
+        value: https:https://personal-finance-tracker-gamma-cyan.vercel.app
