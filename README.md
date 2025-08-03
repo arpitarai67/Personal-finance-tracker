@@ -102,7 +102,4 @@ GitHub: @arpitarai67
 LinkedIn: Arpita Rai
 ---
 
-### ✅ Now:
-1. Save this version as `README.md` in the root of your repo.
-2. Push to GitHub:
 
