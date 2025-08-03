@@ -10,7 +10,7 @@ const analyticsRoutes = require('./routes/analyticsRoutes');
 const app = express();
 
 app.use(cors({
-  origin: 'http://localhost:5173',
+  origin: 'https://personal-finance-tracker-puce-eta.vercel.app',
   credentials: true
 }));
 app.use(express.json());
