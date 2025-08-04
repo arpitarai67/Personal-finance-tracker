@@ -8,14 +8,13 @@ A full-stack web application that helps users track their income, expenses, and 
 ## 🚀 Features
 
 - 🔐 User Authentication (Login/Register)
-- 🔒 Role-Based Access (Admin/User)
 - 📥 Add, Edit, Delete Transactions
 - 📊 View All Transactions in Tabular Format
 - 🔎 Filter by Type, Category, and Date Range
 - 📈 Visual Analytics: Income, Expense, Net Balance
 - ⚡ Redis Caching for Performance
 - ✅ Protected Routes with JWT
-- 🌐 Deployed on Render (or any hosting platform)
+- 🌐 Deployed on vercel
 
 ---
 
